@@ -49,10 +49,15 @@ Evmos | evmosd | 3.0.2 | https://github.com/tharsis/evmos
 Firmachain | firmachaind | 0.3.4-3 | https://github.com/FirmaChain/firmachain
 Galaxy | galaxyd | launch-gentxs | https://github.com/galaxies-labs/galaxy
 Game | nibirud | 1.0.0-1-g2bcf427 | https://github.com/cosmos-gaminghub/nibiru
+Gravity Bridge | | **INCOMPATIBLE** | https://github.com/Gravity-Bridge/Gravity-Bridge
 Impact Hub | ixod | 0.16.0 | https://github.com/ixofoundation/ixo-blockchain
 Juno | junod | v5.0.1 | https://github.com/CosmosContracts/juno
 Ki | kid | Mainnet-2.0.1-350-g4258918 | https://github.com/KiFoundation/ki-tools
+Konstellation | konstellationd | **INCOMPATIBLE** | https://github.com/Konstellation/konstellation
 Lum | lumd | 1.1.3 | https://github.com/lum-network/chain
 Odin | odind | **INCOMPATIBLE** | https://github.com/GeoDB-Limited/odin-core
+Omniflix | omniflixhubd | 0.4.1 | https://github.com/OmniFlix/omniflixhub
 Osmosis | osmosisd | 7.0.0-191-gac6c8570 | https://github.com/osmosis-labs/osmosis
+Pylons | pylonsd | 0.4.2 | https://github.com/Pylons-tech/pylons
+Quicksilver | quicksilverd | v0.1.10-2-g836a205 | https://github.com/ingenuity-build/quicksilver
 Secretd | secretd | 1.3.0 | https://github.com/enigmampc/SecretNetwork/releases/
