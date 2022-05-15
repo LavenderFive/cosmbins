@@ -1,5 +1,4 @@
-# mac_arm64_cosmos_daemons
-
+# Cosmos Bins 
 This repo is contains precompiled binaries for cosmos daemons, specifically for use with the arm64 Mac. 
 
 ## Setup
@@ -7,6 +6,7 @@ This setup assumes you use zsh. If you do not, you'll need to replace the profil
 ```bash
 git clone https://github.com/LavenderFive/cosmbins.git
 cd cosmbins
+# Note: this line doesn't quite work yet
 sed -i '.bak' '1s/^/export PATH=$(pwd)\/bin:$PATH\'$'\n/g' ~/.zshrc
 source ~/.zshrc
 ```
