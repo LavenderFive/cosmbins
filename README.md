@@ -1,29 +1,13 @@
 # mac_arm64_cosmos_daemons
 
-This repo is contains precompiled binaries for cosmos daemons, specifically for use with the arm64 Mac.
+This repo is contains precompiled binaries for cosmos daemons, specifically for use with the arm64 Mac. 
 
 ## Setup
-### 1. Setup Go
-
-```
-# 1. Install Go
-brew install go
-
-# 2. Setup PATH
-# put the following lines in ~/.zshrc
-export GOPATH=/Users/$USER/go
-export PATH=$GOPATH/bin:$PATH
-```
-
-### 2. Move Daemons
-
-```
-mkdir ~/go/bin/
-cp ./daemons/* ~/go/bin/
-```
-
-### 3. Source Bash Profile
-```
+This setup assumes you use zsh. If you do not, you'll need to replace the profile below.
+```bash
+git clone https://github.com/LavenderFive/cosmbins.git
+cd cosmbins
+sed -i '.bak' '1s/^/export PATH=$(pwd)\/bins:$PATH\'$'\n/g' ~/.zshrc
 source ~/.zshrc
 ```
 
