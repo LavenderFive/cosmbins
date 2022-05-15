@@ -49,7 +49,7 @@ Evmos | evmosd | 3.0.2 | https://github.com/tharsis/evmos
 Firmachain | firmachaind | 0.3.4-3 | https://github.com/FirmaChain/firmachain
 Galaxy | galaxyd | launch-gentxs | https://github.com/galaxies-labs/galaxy
 Game | nibirud | 1.0.0-1-g2bcf427 | https://github.com/cosmos-gaminghub/nibiru
-Gravity Bridge | | **INCOMPATIBLE** | https://github.com/Gravity-Bridge/Gravity-Bridge
+Gravity Bridge | gravity | **INCOMPATIBLE** | https://github.com/Gravity-Bridge/Gravity-Bridge
 Impact Hub | ixod | 0.16.0 | https://github.com/ixofoundation/ixo-blockchain
 Juno | junod | v5.0.1 | https://github.com/CosmosContracts/juno
 Ki | kid | Mainnet-2.0.1-350-g4258918 | https://github.com/KiFoundation/ki-tools
