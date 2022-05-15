@@ -1,6 +1,9 @@
 # mac_arm64_cosmos_daemons
 
-# Setup Go
+This repo is contains precompiled binaries for cosmos daemons, specifically for use with the arm64 Mac.
+
+## Setup
+### 1. Setup Go
 
 ```
 # 1. Install Go
@@ -12,18 +15,18 @@ export GOPATH=/Users/$USER/go
 export PATH=$GOPATH/bin:$PATH
 ```
 
-# Move Daemons
+### 2. Move Daemons
 
 ```
 mkdir ~/go/bin/
 cp ./daemons/* ~/go/bin/
 ```
 
-# Source Bash Profile
+### 3. Source Bash Profile
 ```
 source ~/.zshrc
 ```
 
 Network | Daemon | Version | Link | Github
 --- | --- | --- | --- | ----
-Akash | akash | 0.15.0-rc9 | ./daemons/akash | - Github: https://github.com/ovrclk/akash
+Akash | akash | 0.15.0-rc9 | ./daemons/akash | https://github.com/ovrclk/akash
