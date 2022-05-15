@@ -7,7 +7,7 @@ This setup assumes you use zsh. If you do not, you'll need to replace the profil
 ```bash
 git clone https://github.com/LavenderFive/cosmbins.git
 cd cosmbins
-sed -i '.bak' '1s/^/export PATH=$(pwd)\/bins:$PATH\'$'\n/g' ~/.zshrc
+sed -i '.bak' '1s/^/export PATH=$(pwd)\/bin:$PATH\'$'\n/g' ~/.zshrc
 source ~/.zshrc
 ```
 
