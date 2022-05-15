@@ -53,7 +53,7 @@ Gravity Bridge | gravity | **INCOMPATIBLE** | https://github.com/Gravity-Bridge/
 Impact Hub | ixod | 0.16.0 | https://github.com/ixofoundation/ixo-blockchain
 Juno | junod | v5.0.1 | https://github.com/CosmosContracts/juno
 Ki | kid | Mainnet-2.0.1-350-g4258918 | https://github.com/KiFoundation/ki-tools
-Konstellation | konstellationd | **INCOMPATIBLE** | https://github.com/Konstellation/konstellation
+Konstellation | knstld | **INCOMPATIBLE** | https://github.com/Konstellation/konstellation
 Lum | lumd | 1.1.3 | https://github.com/lum-network/chain
 Odin | odind | **INCOMPATIBLE** | https://github.com/GeoDB-Limited/odin-core
 Omniflix | omniflixhubd | 0.4.1 | https://github.com/OmniFlix/omniflixhub
