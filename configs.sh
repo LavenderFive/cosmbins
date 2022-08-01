@@ -46,6 +46,10 @@ firmachaind config node "$COSMOS_DIR/firmachain"
 galaxyd config chain-id galaxy-1
 galaxyd config node "$COSMOS_DIR/galaxy"
 
+# IDEP 
+iond config chain-id Antora
+iond config node "$COSMOS_DIR/idep"
+
 # Impact Hub - does not support config
 
 # Juno
