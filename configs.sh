@@ -73,3 +73,7 @@ osmosisd config node "$COSMOS_DIR/osmosis"
 # Secret
 secretd config chain-id secret-4
 secretd config node "$COSMOS_DIR/secret"
+
+# Vidulum
+vidulumd config chain-id vidulum-1
+vidulumd config node "$COSMOS_DIR/vidulum"
