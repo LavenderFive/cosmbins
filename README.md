@@ -16,6 +16,7 @@ Network | Daemon | Version | Github
 Akash | akash | 0.15.0-rc9 | https://github.com/ovrclk/akash
 Bitcanna | bcnad| .1.3.1-44-g7cfc401 | https://github.com/BitCannaGlobal/bcna/
 Bitsong | bitsongd | 0.10.0-1-gfa04c29 | https://github.com/bitsongofficial/go-bitsong
+Canto | cantod | UNKNOWN | https://docs.canto.io/technical-reference/validators/becoming-a-validator
 Cheqd | cheqd-noded | 0.5.0-27-gb3a0426 | https://github.com/cheqd/cheqd-node
 Chihuahua | chihuahuad | v1.1.1-2-g97b600e | https://github.com/ChihuahuaChain/chihuahua
 Chronic | chtd | **INCOMPATIBLE** | https://github.com/ChronicNetwork/chtd
@@ -23,7 +24,7 @@ Clan | cland | latest | https://github.com/ClanNetwork/clan-network
 Comdex | comdex | 0.0.7 | https://github.com/comdex-official/comdex
 Cosmic Horizon | cohod | 0.1-3f02e9f0 | https://github.com/cosmic-horizon/coho
 CosmosHub | gaiad | main-97a79c38beab15032347344b2d588a59ff2b292a | https://github.com/cosmos/gaia
-CRAFT | craftd | v0.3.0-alpha | https://github.com/notional-labs/craft
+CRAFT | craftd | v0.4 | https://github.com/notional-labs/craft
 Defund | defund | 0.0.2-24-g2057c7b | https://github.com/defund-labs/defund
 Desmos | desmos | 2.3.1-125-g08d3719a | https://github.com/desmos-labs/desmos
 Deweb | dewebd | **INCOMPATIBLE** | https://github.com/deweb-services/deweb
