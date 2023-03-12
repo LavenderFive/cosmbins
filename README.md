@@ -47,4 +47,5 @@ Osmosis | osmosisd | 7.0.0-191-gac6c8570 | https://github.com/osmosis-labs/osmos
 Pylons | pylonsd | 0.4.2 | https://github.com/Pylons-tech/pylons
 Quicksilver | quicksilverd | v0.1.10-2-g836a205 | https://github.com/ingenuity-build/quicksilver
 Secretd | secretd | 1.3.0 | https://github.com/enigmampc/SecretNetwork/releases/
+Teritori | teritorid |  | 
 Vidulum | vidulumd | 1.0.0 | https://github.com/vidulum/mainnet
